@@ -1,0 +1,4 @@
+C:\Users\Hp\Desktop\TFM\TFM\obj\Debug\net10.0\TFM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\TFM\TFM\obj\Debug\net10.0\TFM.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\TFM\TFM\obj\Debug\net10.0\TFM.AssemblyInfo.cs
+C:\Users\Hp\Desktop\TFM\TFM\obj\Debug\net10.0\TFM.csproj.CoreCompileInputs.cache
