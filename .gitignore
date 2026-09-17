@@ -7,3 +7,7 @@ env/
 __pycache__/
 *.pyc
 .pytest_cache/
+
+# Documentos e informes temporales
+*.pdf
+*.slnx

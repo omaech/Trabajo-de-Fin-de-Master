@@ -10,7 +10,7 @@
   <ItemGroup>
     <Compile Include="Analisis.py" />
     <Compile Include="check_modelo.py" />
-    <Compile Include="Punto4.py" />
+    <Compile Include="01_eda_analisis.py" />
   </ItemGroup>
 
 </Project>
